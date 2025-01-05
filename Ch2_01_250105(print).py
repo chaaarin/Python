@@ -63,3 +63,4 @@ print(f"t center : {t:*^10}")
 print(f"t center : {t:#^10}")
 print(f"t center : {t:#<10}")
 print(f"t center : {t:#>10}")
+
